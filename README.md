@@ -46,3 +46,7 @@ O semáforo deverá iniciar com o LED vermelho, passando para amarelo e depois p
 Verificação:
 Confira os prints na porta serial para acompanhar o ciclo do semáforo.
 
+fluxo do projeto
+![Untitled Diagram (8)](https://github.com/user-attachments/assets/8385e6be-d0c6-4ed2-847b-561c149076f7)
+
+
